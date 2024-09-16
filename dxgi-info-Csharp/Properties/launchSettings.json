@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ScreenConfig": {
+      "commandName": "Project",
+      "commandLineArgs": "deviceinfo \"LG ULTRAGEAR\""
+    }
+  }
+}
